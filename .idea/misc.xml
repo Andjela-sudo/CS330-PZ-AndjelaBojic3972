@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Private/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable-v24/white_back_top12dp.xml" value="0.253" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/color_cursor.xml" value="0.1" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/gradient_color_1.xml" value="0.2315" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/gradient_color_2.xml" value="0.2315" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/gradient_color_3.xml" value="0.2315" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/gradient_color_4.xml" value="0.2315" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/gradient_color_5.xml" value="0.2315" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/gradient_color_6.xml" value="0.2315" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/ic_round_arrow_back_24_dark.xml" value="0.1" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/drawable/ic_round_more_vert_24.xml" value="0.2315" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/font/baloo.xml" value="0.1" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/activity_class_detail_.xml" value="0.264" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/bottomsheet_student_edit.xml" value="0.1" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/class_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/item_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/item_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/list_user.xml" value="0.1" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/navigation_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/popup_add_list.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/popup_add_student.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/registration_layout.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/screen_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/screen_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/screen_text.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/signin_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/signup_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/student_attendance_adapter.xml" value="0.536" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/layout/users_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/menu/bottom_app_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/menu/bottom_bar_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/menu/detail_class_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/menu/drawer_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/menu/menu_notes_action_mode.xml" value="0.264" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/menu/notes_item_menu_star.xml" value="0.1" />
+        <entry key="..\:/Users/Private/Desktop/CS330-PZ-AndjelaBojic3972/app/src/main/res/menu/only_dot.xml" value="0.12962962962962962" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
